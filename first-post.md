@@ -1,5 +1,7 @@
 ## First Post
 
+<small>May 23, 2020</small>
+
 I wanted to make a devlog of what I am doing on this game.
 Probably will end up being just for me but that's fine. I want to write more anyway.
 I also have thought about doing a video devlog like you see on YouTube all the time. Maybe I still will, but editing seems like a lot of work. Writing with no purpose it much easier
