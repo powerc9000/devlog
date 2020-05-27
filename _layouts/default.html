@@ -9,10 +9,16 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
+		<![endif]-->
+<style>
+.context {
+	display: flex;
+}
+</style>
+	</head>
+	<body>
+		<div class="content">
+			<div class="top">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>Posts about my game that I am making</p>
@@ -21,11 +27,10 @@
 
       {{ content }}
 
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
+			</section>
+			</div>
+		</div>
+		</div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>

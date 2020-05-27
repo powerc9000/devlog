@@ -1,0 +1,38 @@
+.content {
+  max-width: 900px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+body,
+html {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: sans-serif;
+}
+.content footer {
+  margin-top: auto;
+  padding: 10px;
+}
+.top header {
+  background-color: rgba(200, 122, 255, 255);
+  padding: 10px;
+  color: white;
+}
+
+.top section {
+  margin-top: 20px;
+}
+
+.top header a {
+  color: white;
+}
+
+.top {
+  padding: 10px;
+  flex: 1;
+}
