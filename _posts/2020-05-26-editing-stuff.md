@@ -1,4 +1,6 @@
-<small>May 26, 2020</small>
+---
+author: Clay Murray
+---
 
 ## Game Maps
 
@@ -16,3 +18,5 @@ However today I gave it another go and I feel a lot more excited about the whole
 Here's a video:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mdzc_zeM5Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Previous Post]({{site.baseurl}}{{page.previous.url}})

@@ -1,6 +1,8 @@
-## First Post
+---
+author: Clay Murray
+---
 
-<small>May 23, 2020</small>
+## First Post
 
 I wanted to make a devlog of what I am doing on this game.
 Probably will end up being just for me but that's fine. I want to write more anyway.
