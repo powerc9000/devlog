@@ -24,4 +24,4 @@ My art ideas have been to draw the art with pen and paper and scan the images in
 
 I'll link some screenshots or something here:
 
-![Screenshot showing some of the stupid art in my game](/images/first-post-1.png)
+![Screenshot showing some of the stupid art in my game](/devlog/images/first-post-1.png)
