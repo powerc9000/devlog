@@ -33,3 +33,4 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 gem "jekyll-relative-links", "~> 0.6.1"
 
 gem "github-pages", group: :jekyll_plugins
+gem 'jekyll-compose', group: [:jekyll_plugins]
